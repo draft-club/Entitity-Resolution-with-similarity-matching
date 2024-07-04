@@ -1,0 +1,139 @@
+{
+    "ifu": {
+        "features": [
+            "ifu_clean",
+            "ifu_detail_clean",
+            "if_source_clean",
+            "ifu_fournisseur_clean",
+            "identifiant_fiscal_benef_med_clean",
+            "identifiant_fiscal_beneficiaire_clean"
+        ]
+    },
+    "ice": {
+        "features": [
+            "ice_clean",
+            "ice_detail_clean",
+            "num_ice_fournisseur_clean"
+        ]
+    },
+    "raison_sociale": {
+        "features": [
+            "raison_social_clean",
+            "raison_sociale_beneficiaire_clean"
+        ]
+    },
+    "adresse": {
+        "features": [
+            "adrese_personnelle_clean",
+            "adresse_source_clean",
+            "adresse_clean",
+            "adresse_1_clean",
+            "adresse_personnelle_assure_clean",
+            "adresse_beneficiaire_clean"
+        ]
+    },
+    "ville": {
+        "features": [
+            "ville_clean"
+        ]
+    },
+    "pays": {
+        "features": [
+            "pays_clean",
+            "pays_residence_clean"
+        ]
+    },
+    "date_naissance": {
+        "features": [
+            "date_naissance_clean"
+        ]
+    },
+    "code_postal": {
+        "features": [
+            "code_postal_clean"
+        ]
+    },
+    "nom_prenom": {
+        "features": [
+            "nom_prenom_clean"
+        ]
+    },
+    "nom_prenom_rs": {
+        "features": [
+            "nom_prenom_rs_clean",
+            "nom_detail_clean",
+            "nom_prenom_rs_fournisseur_clean",
+            "rs_clean"
+        ]
+    },
+    "nom": {
+        "features": [
+            "nom_clean"
+        ]
+    },
+    "prenoms": {
+        "features": [
+            "prenom_clean",
+            "prenoms_clean"
+        ]
+    },
+    "acronym_nom_prenom": {
+        "features": [
+            "acronym_nom_prenom_clean"
+        ]
+    },
+    "numero_adhesion_cnss": {
+        "features": [
+            "ie_num_cnss_clean",
+            "num_cnss_clean"
+        ]
+    },
+    "num_cnss": {
+        "features": [
+            "num_cnss_benef_med_clean"
+        ]
+    },
+    "num_cin": {
+        "features": [
+            "num_cin_clean",
+            "cin_source_clean",
+            "num_cni_clean",
+            "cin_clean"
+        ]
+    },
+    "num_ce": {
+        "features": [
+            "num_ce_clean",
+            "cie_clean"
+        ]
+    },
+    "num_ppr": {
+        "features": [
+            "num_ppr_clean"
+        ]
+    },
+    "centre_registre_commerce": {
+        "features": [
+            "centre_registre_commerce_clean"
+        ]
+    },
+    "code_centre_registre_commerce": {
+        "features": [
+            "code_centre_registre_commerce_clean"
+        ]
+    },
+    "num_registre_commerce": {
+        "features": [
+            "num_registre_commerce_clean",
+            "numero_registre_commerce_clean"
+        ]
+    },
+    "num_article_patente": {
+        "features": [
+            "patente_source_clean",
+            "num_tp_clean",
+            "patente_clean",
+            "numero_tp_clean"
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+# requirements.txt
+
+pandas
+numpy
+scikit-learn
+chardet
+geopy
+tabulate
+openpyxl
+pyyaml
+jellyfish
